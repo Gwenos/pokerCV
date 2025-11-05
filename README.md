@@ -1,0 +1,1 @@
+Projet de détection et d'identification de carte et de main au poker en utilisant python et la librairie OpenCV
